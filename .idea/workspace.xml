@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e42bdd3-c13a-436f-8122-8bf90a2bc353" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="bbfd95a3-d7e2-4081-a909-8ed25b56d0e2" />
+  <component name="ProjectId" id="1mVND8G994oiYgOPvT9Bb1smsHn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e42bdd3-c13a-436f-8122-8bf90a2bc353" name="Default Changelist" comment="" />
+      <created>1609574677018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609574677018</updated>
+      <workItem from="1609574679291" duration="1376000" />
+      <workItem from="1609737059242" duration="7911000" />
+      <workItem from="1609813207052" duration="14000" />
+      <workItem from="1609813223409" duration="1332000" />
+      <workItem from="1609901835169" duration="3041000" />
+      <workItem from="1609979704620" duration="1520000" />
+      <workItem from="1610066025665" duration="3510000" />
+      <workItem from="1610182191384" duration="592000" />
+      <workItem from="1610325488338" duration="1541000" />
+      <workItem from="1613789368615" duration="72000" />
+      <workItem from="1626099729989" duration="878000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="832" y="417" width="256" height="280" key="Github.ShareDialog" timestamp="1626100559785">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="832" y="417" width="256" height="280" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1626100559785" />
+    <state x="662" y="74" width="596" height="891" key="find.popup" timestamp="1626099816935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="74" width="596" height="891" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1626099816935" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/views/deviceoperate/list/components/dialog.vue</url>
+          <line>87</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
